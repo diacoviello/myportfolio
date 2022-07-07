@@ -1,5 +1,4 @@
 {
-    "about": " This is where you can describe about **yourself**. The more you describe about yourself, the better it is!\n\n\nExtra Information about you, like hobbies and your goals.\nExample Paragraph: I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs.",
-    "imageSource": "images/about/profile.png"
-    
+  "about": "Hello, and welcome to my developer portfolio.\n\n\nI attended Rutgers Coding Bootcamp in 2021 and received my certification for **Full-Stack Web Development**. Since then, I have continued working to learn as much as I can involving development, coding, etc. Check out my resume and links to see some projects I've done and am currently working on!\n\n\nAlongside my abilities with development libraries and technologies, I am fluent in using music software as well as GIMP for photo editing. In general, I can say I am passionate about learning the in's and out's of anything related to technology and music. I find my motivation for learning comes naturally to me and I am always up for a new challenge!",
+  "imageSource": "images/about/headshot.png"
 }
