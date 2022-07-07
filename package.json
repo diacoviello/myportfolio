@@ -2,7 +2,7 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://diacoviello.github.io/myportfolio",
+  "homepage": "https://diacoviello.github.io/myportfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -21,6 +21,7 @@
     "react-router-dom": "^5.3.0",
     "react-scripts": "^4.0.3",
     "react-social-icons": "^5.6.1",
+    "serve": "^13.0.4",
     "styled-components": "^5.3.1",
     "typewriter-effect": "^2.18.2",
     "use-dark-mode": "^2.3.1",
